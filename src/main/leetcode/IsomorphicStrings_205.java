@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * Input: s = "egg", t = "add"
  * Output: true
- * 
+ *
  */
 public class IsomorphicStrings_205 {
     public boolean isIsomorphic2(String s, String t) {
